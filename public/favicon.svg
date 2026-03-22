@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="32" fill="#22c55e"/>
+  <!-- Graduation cap board -->
+  <polygon points="32,14 56,26 32,38 8,26" fill="white" opacity="0.95"/>
+  <!-- Cap top (tassel side) -->
+  <rect x="46" y="26" width="3" height="14" rx="1.5" fill="white" opacity="0.8"/>
+  <circle cx="47.5" cy="41" r="3" fill="#16a34a"/>
+  <!-- Book base / diploma scroll -->
+  <rect x="18" y="32" width="28" height="16" rx="4" fill="white" opacity="0.15"/>
+  <!-- Diploma lines -->
+  <line x1="22" y1="37" x2="42" y2="37" stroke="white" stroke-width="1.5" opacity="0.5"/>
+  <line x1="22" y1="41" x2="36" y2="41" stroke="white" stroke-width="1.5" opacity="0.5"/>
+  <!-- E lettermark in center of cap -->
+  <text x="32" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-weight="900" font-size="11" fill="#22c55e">E</text>
+</svg>
